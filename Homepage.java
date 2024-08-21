@@ -126,7 +126,7 @@ public class Homepage{
 			}
 			System.out.println("\nTotal amount to pay : "+ totalAmount+"\n");
 			System.out.println("----------------Plese visit again--------------------------");
-			return;
+			System.exit(0);
 		}
 		
 	}
