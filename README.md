@@ -17,4 +17,4 @@ This is a command line application developed in Core Java that allows users to s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/atharvbadekar/Ecommerce.app.git
+   git clone https://github.com/atharvbadekar/Ecommerce-app.git
